@@ -1,0 +1,11 @@
+{
+  "name": "new-id",
+  "version": "0.0.1",
+  "description": "Creates a new id.",
+  "main": "index.js",
+  "author": "Jason Fill",
+  "license": "MIT",
+  "dependencies": {
+    "node-uuid": "^1.4.7"
+  }
+}

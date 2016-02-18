@@ -31,7 +31,3 @@ console.log(new_id.create('message')); // prints ==> MG993d08bbd1af4dd49dfb47eb2
 
 * ```prefixes``` (object) - this is an object that contains a simple key/value pair of types and prefixes.  In the example above there is only one prefix ```message```.  So when that type if called the ID will be prefixed with "MG".
 * ```strict``` (boolean) - By default this is true.  If there is no prefix mapping an error will be thrown indicating the type was incorrect.  However, you can overwrite this when creating the object with ```false``` so even if a prefix is not found a regular (non-prefixed) id will be returned.
-
-=======
-# new-id
-A small module for creating unique IDs that contain a specific prefix based on the type of ID - similar to the Twilio Ids.

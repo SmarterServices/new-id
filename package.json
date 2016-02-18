@@ -1,6 +1,6 @@
 {
   "name": "new-id",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Creates a new id.",
   "main": "index.js",
   "author": "Jason Fill",

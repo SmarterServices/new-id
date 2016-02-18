@@ -5,6 +5,12 @@ A small module for creating unique IDs that contain a specific prefix based on t
 ## Format
 Ids will be returned as RFC4122 v4 UUID prefixed with the user defined value in the prefixed mapping object as outlined below.
 
+## Install
+
+``` bash
+npm install new-id
+```
+
 ## Usage
 
 ``` javascript
